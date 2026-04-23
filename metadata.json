@@ -1,0 +1,6 @@
+{
+  "name": "余数小课堂 - 除法应用题助手",
+  "description": "一个用于教学除法有余数问题的数学工具，涵盖『进一法』、『去尾法』和『周期问题』三大核心应用场景。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
